@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div{
+    text-align: center;
+}
+.ass1{
+    color: black;
+    background-color: #008b8b;
+    margin: 50px 400px 10px 40px;
+    padding:5px 200px 5px 5px;
+    display: inline-block;
+    border: 2px solid black;
+    font-size:10px
+}
+.ass2{
+    color: black;
+    background-color:rgba(255, 166, 0, 0.849) ;
+    margin:5px 300px 10px 15px;
+    padding: 5px 200px 5px 5px;
+    display: inline-block;
+    border: 2px solid black;
+    font-size:10px
+}
+.ass3{
+      
+    color: black;
+    background-color:rgb(184, 70, 184) ;
+    margin:5px 200px 10px 15px;
+    padding: 5px 200px 5px 5px;
+    display: inline-block;
+    border: 2px solid black;
+    font-size:10px
+}  
+.ass4{
+    color: black;
+    background-color:rgba(221, 203, 203, 0.918) ;
+    margin:5px 200px 10px 15px;
+    padding: 5px 350px 5px 8px;
+    display: inline-block;
+    border: 5px double orange;
+    font-size:25px
+}
+.ass5{
+    color:white;
+    background-color:#2e2e64 ;
+    margin:5px 300px 10px 15px;
+    padding: 5px 200px 5px 5px;
+    display: inline-block;
+    border: 2px solid black;
+    font-size:10px
+}
+.ass6{
+    color: black;
+    background-color:rgb(172, 56, 56) ;
+    display: inline-block;
+    margin:5px 350px 10px 15px;
+    padding: 5px 200px 5px 5px;
+    border: 2px solid black;
+    font-size:10px
+}
+.ass7{
+    color: black;
+    background-color:rgb(0, 255, 127) ;
+    margin: 5px 450px 10px 40px;
+    padding: 5px 200px 5px 5px;
+    display: inline-block;
+    border: 2px solid black;
+    font-size:10px
+}
+
+
+
+
+
+
+
